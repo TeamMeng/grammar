@@ -8,6 +8,11 @@ license = "MIT"
 name = "log2"
 path = "src/nginx_log2.rs"
 
+[[bin]]
+name = "json1"
+path = "src/json1.rs"
+
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
